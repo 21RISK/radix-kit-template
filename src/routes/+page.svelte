@@ -1,2 +1,2 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Welcome to this Radix-svelte Sveltekit typescript template</h1>
+<p>Visit <a href="https://github.com/TGlide/radix-svelte">radix-svelte</a> to read the documentation</p>
